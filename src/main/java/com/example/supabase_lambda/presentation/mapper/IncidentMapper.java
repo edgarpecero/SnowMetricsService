@@ -1,4 +1,4 @@
-package com.example.supabase_lambda.mapper;
+package com.example.supabase_lambda.presentation.mapper;
 
 
 import com.example.supabase_lambda.application.dto.IncidentDTO;

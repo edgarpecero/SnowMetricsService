@@ -1,4 +1,4 @@
-package com.example.supabase_lambda.config;
+package com.example.supabase_lambda.infrastructure.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
